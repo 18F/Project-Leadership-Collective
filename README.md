@@ -2,8 +2,16 @@
 
 The purpose of this repository is to provide ability to submit ideas for talks or resources to the 18F Project Leadership Collective.
 
-* **[Submit a talk]()**
-* **[Request a resource]()**
+* **[Submit a talk](https://github.com/18F/Project-Leadership-Collective/issues/new)**
+* **[Request a resource](https://github.com/18F/Project-Leadership-Collective/issues/new)**
+
+## Table of Contents
+  - [About the Collective](#about-the-collective)
+  - [Goals](#goals)
+  - [Practice](#practice)
+  - [Resources](#resources)
+  - [Who We Are](#who-we-are)
+
 
 ## About the Collective
 
@@ -26,4 +34,14 @@ Project Leadership is the practice of coordinating and representing a project, b
 
 * We conduct monthly meetings open to the 18F community 
 * We maintain the Project Leadership Toolkit
-* We build and maintain [resources related to project leadership](https://handbook.tts.gsa.gov/18f/projects-partners/leading-projects/)
+* We build and maintain resources related to project leadership
+
+## Resources 
+ * [Leading projects at 18F](https://handbook.tts.gsa.gov/18f/projects-partners/leading-projects/)
+ * [Project lead toolbox](TOOLBOX.md)
+ * [PLC Meetings Archive](https://docs.google.com/document/d/1ktIDDutGQ-_RPhduzZ5RFCaMJTZu2LzpG5qu5LGQ2no/edit?usp=sharing) 🔒
+ * Slack channel [#c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58) 🔒
+ 
+ ## Who We Are
+ * Collective Co-Manager [Logan McDonald](https://github.com/loganmeetsworld)
+ * Collective Co-Manager [Edwin Torres](https://github.com/edwintorres)
