@@ -2,7 +2,7 @@
 
 ## Overview
 * Toolbox will provide links to Project Resource Library to ensure available tools are most relevant.  Tools listed here will be related to Project Leadership, and less on chapter based skills (ie: engineering, product management) or types of project work (discovery, synthesis, E&I, etc).  
-* Form to [add resources to the Project Resources Library](https://airtable.com/shrEP5QMoxFTrCiTJ) 🔒  -- Please do!
+* Form to [add resources to the Project Resources Library](https://airtable.com/shrg8FScJQSJlXwtv) 🔒  -- Please do!
 * Other project leadership resources available here: 
    * TTS Handbook [Leading Projects at 18F](https://handbook.tts.gsa.gov/leading-projects/)
    * Drive 18F Team Folder > [Project resources](https://drive.google.com/drive/folders/1L9qqS6-b-emvlWJ4JPCG58LW62bbV361) 🔒
@@ -12,19 +12,15 @@
 
 ### Internal team set-up
 * Objective/goal: getting to know each of the 18F team members, setting up healthy working relationships and expectations, building out the tools to manage the regular ceremonies and development of products 
-* [Link to project resource library (PRL)](https://airtable.com/shrRKLdCeK30WHmt8) 🔒
-* Link to project reflections (lessons learned):  
+* [18F Resource Library - team setup] (https://airtable.com/shrOT2O6TNTNU4ZJC) 🔒 
 
 ### External kick-off
 * Objective/goal: getting to know the partner, introducing the partner to 18F and the team, introducing the partner to 18F work methods and philosophy, and discussing scope of work.
-* [Link to project resource library (PRL)](https://airtable.com/shrpfi1U6lMuOE6kO) 🔒
-* Link to project reflections (lessons learned):  
+* [18F Resource Library - kickoffs](https://airtable.com/shrhKQuIW10RRizlw) 🔒 
 
 ### Recurring rituals (sprint, etc)
 * Objective/goal: the tools necessary or helpful in making the regularly occurring agile ceremonies happen!  
-* Link to project resource library (PRL)
-* Link to project reflections (lessons learned):  
-
+* [18F Resource Library - templates](https://airtable.com/shrssjhiXVufrY4xF)
 
 
 ### Presentations to Partner
@@ -38,12 +34,12 @@
 
 ### Vendor onboarding & post-award management
 * Objective/goal: 
-* [Project resource library (PRL)](https://airtable.com/shr1VkGCQ2r3G0B6D) 🔒
+* [18F Resource Library - vendor onboarding](https://airtable.com/shrfnMUmqizhGNwXa) 🔒
 * [PLC session: Miatta Myers on post-award management](https://drive.google.com/file/d/19WpkmyKONmgW6EYFvMIUJTHHs2AXZ5wS/view?usp=sharing) 🔒
 
 ### Closeout
 * Objective/goal: 
-* [Link to project resource library (PRL)](https://airtable.com/shrk41zmbOMtm5lBz) 🔒
+* [18F Resource Library - project closeout](https://airtable.com/shrqVRm0KRVcZKHSQ) 🔒
 * [Project reflections toolkit](https://drive.google.com/drive/folders/152V0H5x43n6cBShUiW2KaSV-Re1jZsjG) 🔒 (Drive folder w/templates & guide)
 * [How do we stop, pause, re-scope, re-staff, or pivot a project?](https://docs.google.com/document/d/1YVEKBB8R2H_lGZDzWwu25SFN6fMAgrwZ2W997pZm7Z0/edit) 🔒
 * [Project closeout checklist](https://docs.google.com/document/d/1AnY9XJWHABoKgJfmuP8IKccbeNt-P8YXi0FbMVZQFjw/edit) 🔒
